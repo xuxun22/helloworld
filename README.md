@@ -6,5 +6,4 @@ go run server.go
 
 
 # Run the application in prod
-go build
-./helloworld
+go build && ./helloworld
